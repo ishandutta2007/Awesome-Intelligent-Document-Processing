@@ -56,7 +56,7 @@ The sector is **moderately fragmented**: while legacy automation giants (such as
 
 ## 🔓 Open-Source GitHub Projects 🐙
 
-Below is a curated list of top open-source repositories for OCR, document layout analysis, text detection, and IDP pipelines, sorted by GitHub star count.
+Below is a curated list of top open-source repositories for OCR, document layout analysis, text detection, and IDP pipelines, sorted by GitHub Stars_Count.
 
 - **[Tesseract OCR](https://github.com/tesseract-ocr/tesseract)** [![Stars](https://img.shields.io/github/stars/tesseract-ocr/tesseract?style=social&color=white)](https://github.com/tesseract-ocr/tesseract/stargazers)  
   Classic, highly popular open-source OCR engine supporting over 100 languages, widely used as a baseline for document text extraction pipelines.
